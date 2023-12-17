@@ -1,0 +1,3 @@
+name: LCCore
+version: '${project.version}'
+main: lc.core.CoreMain
